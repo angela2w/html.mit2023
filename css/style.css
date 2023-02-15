@@ -1,0 +1,101 @@
+tr td{
+    border: 5px solid darkorange;
+    font-family: KacstScreen;
+    padding: 60px;
+    margin: 30px;
+    width: 220px;
+    font-size: xx-large;
+    background: plum;
+
+}
+table{
+    border-collapse: collapse;
+}
+h2{
+    font-size: xxx-large;
+    font-family: Chilanka;
+}
+th{
+    border: 5px solid darkorange;
+    background: aqua;
+}
+body{
+   background: white;
+}
+.fruits{
+    border: 2px solid black;
+    background: aqua;
+    color: firebrick;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.cars{
+    border:2px solid deeppink;
+    background: black;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.FRUITS{
+    border: 3px solid darkred;
+    background: deepskyblue;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.artist{
+    float: bottom;
+    border: 2px solid brown;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    background: darksalmon;
+
+}
+.artist h2{
+    font-family: KacstPen;
+    text-align: center;
+}
+.ARTIST{
+    border: 3px solid black;
+    text-align: center;
+    padding: 40px;
+    margin: 20px;
+    font-family: Garuda;
+    background: burlywood;
+}
+.ARTIST h2{
+    font-family: Gubbi;
+}
+#school{
+    border: 2px dotted black;
+    padding: 20px;
+    margin: 20px;
+    background: khaki;
+}
+#school h2{
+    text-align: center;
+    font-family: aakar;
+}
+.name h2{
+    font-family: Garuda;
+    color: darkseagreen;
+    padding: 0px;
+}
+
+.location{
+    border: 1px solid grey;
+    padding: 5px;
+}
+.cars p{
+    font-size: xx-large;
+    font-family: Serif;
+    color: darkred;
+}
+.cars h2{
+    color: darkred;
+}
+
+
+
